@@ -1,0 +1,24 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #c77dff;
+}
+a {
+    color: #c77dff;
+}
+a:hover {
+    color: #e0aaff;
+}
+
+.neon {
+    color: #c77dff;
+    text-shadow: 0 0 5px #c77dff, 0 0 10px #c77dff, 0 0 20px #c77dff;
+}
+.border-neon {
+    border: 2px solid #c77dff !important;
+}
+.text-neon {
+    color: #c77dff;
+}

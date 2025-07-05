@@ -1,0 +1,17 @@
+
+{
+    "articles": [
+        {
+            "title": "Introduction à la Data Science",
+            "description": "Apprenez les bases de la Data Science, des statistiques au machine learning."
+        },
+        {
+            "title": "Développer une application mobile en React Native",
+            "description": "Une introduction simple pour créer votre première app mobile multiplateforme."
+        },
+        {
+            "title": "Web moderne avec HTML5 & CSS3",
+            "description": "Explorez les dernières normes du web pour des interfaces responsives et esthétiques."
+        }
+    ]
+}
